@@ -1,0 +1,7 @@
+{
+  "name": "TOP-ECE",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
